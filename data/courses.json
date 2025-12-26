@@ -1,0 +1,98 @@
+﻿[
+  {
+    "course": "CSE411",
+    "title": "Artificial Intelligence",
+    "teacher": "Dr. Rahim",
+    "semester": "Spring 2025",
+    "dept": "CSE",
+    "credit": 3
+  },
+  {
+    "course": "CSE412",
+    "title": "Machine Learning",
+    "teacher": "Dr. Rahim",
+    "semester": "Fall 2024",
+    "dept": "CSE",
+    "credit": 3
+  },
+  {
+    "course": "CSE310",
+    "title": "Database Systems",
+    "teacher": "Dr. Sultana",
+    "semester": "Spring 2025",
+    "dept": "CSE",
+    "credit": 3
+  },
+  {
+    "course": "CSE220",
+    "title": "Data Structures",
+    "teacher": "Dr. Hasan",
+    "semester": "Fall 2024",
+    "dept": "CSE",
+    "credit": 3
+  },
+  {
+    "course": "CSE250",
+    "title": "Object Oriented Programming",
+    "teacher": "Dr. Hasan",
+    "semester": "Spring 2024",
+    "dept": "CSE",
+    "credit": 3
+  },
+  {
+    "course": "CSE460",
+    "title": "Computer Networks",
+    "teacher": "Dr. Rahim",
+    "semester": "Summer 2024",
+    "dept": "CSE",
+    "credit": 3
+  },
+  {
+    "course": "EEE201",
+    "title": "Electric Circuits",
+    "teacher": "Dr. Farzana",
+    "semester": "Spring 2025",
+    "dept": "EEE",
+    "credit": 3
+  },
+  {
+    "course": "EEE305",
+    "title": "Signals and Systems",
+    "teacher": "Dr. Farzana",
+    "semester": "Fall 2024",
+    "dept": "EEE",
+    "credit": 3
+  },
+  {
+    "course": "MAT101",
+    "title": "Calculus I",
+    "teacher": "Dr. Karim",
+    "semester": "Spring 2024",
+    "dept": "MAT",
+    "credit": 3
+  },
+  {
+    "course": "MAT201",
+    "title": "Linear Algebra",
+    "teacher": "Dr. Karim",
+    "semester": "Fall 2024",
+    "dept": "MAT",
+    "credit": 3
+  },
+  {
+    "course": "PHY101",
+    "title": "Physics I",
+    "teacher": "Dr. Nasir",
+    "semester": "Spring 2024",
+    "dept": "PHY",
+    "credit": 3
+  },
+  {
+    "course": "ENG101",
+    "title": "Academic Writing",
+    "teacher": "Ms. Akter",
+    "semester": "Spring 2025",
+    "dept": "ENG",
+    "credit": 2
+  }
+]
